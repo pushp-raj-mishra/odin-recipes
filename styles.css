@@ -1,0 +1,14 @@
+
+.heading {
+    margin: 0 auto;
+    text-align: center;
+}
+.photo {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.description {
+    text-align: center;
+}
